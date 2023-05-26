@@ -7,6 +7,15 @@ body{
 h1, h2, p{
 color:var(--text-color);
 }
+img {
+    max-height: 400px;
+}
 .container{
     text-align: center;
+}
+.vegan-croissant{
+    transform: translate(-300px, 40px);
+}
+.croissant{
+    transform: translate(300px, 50px);
 }
